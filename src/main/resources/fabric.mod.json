@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "allthetools",
+	"version": "${version}",
+	"name": "All the Tools",
+	"description": "A mod that adds a large variety of Vanilla+ tools!",
+	"authors": [
+		"AMathBoi"
+	],
+	"contact": {
+		"homepage": "https://github.com/AMathBoi",
+		"sources": "https://github.com/AMathBoi/All-The-Tools"
+	},
+	"license": "MIT",
+	"icon": "assets/allthetools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.amathboi.allthetools.AllTheTools"
+		],
+		"fabric-datagen": [
+			"net.amathboi.allthetools.AllTheToolsDataGenerator"
+		],
+		"client": [
+			"net.amathboi.allthetools.AllTheToolsClient"
+		]
+	},
+	"mixins": [
+		"allthetools.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
