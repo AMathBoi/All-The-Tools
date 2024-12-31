@@ -1,5 +1,8 @@
 package net.amathboi.allthetools;
 
+import net.amathboi.allthetools.component.ModDataComponentTypes;
+import net.amathboi.allthetools.item.ModItemGroups;
+import net.amathboi.allthetools.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -11,6 +14,8 @@ public class AllTheTools implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-
+		ModItemGroups.registerItemGroups();
+		ModItems.registerModItems();
+		ModDataComponentTypes.registerDataComponentTypes();
 	}
 }
