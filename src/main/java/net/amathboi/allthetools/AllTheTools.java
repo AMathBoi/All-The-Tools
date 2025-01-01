@@ -3,6 +3,7 @@ package net.amathboi.allthetools;
 import net.amathboi.allthetools.component.ModDataComponentTypes;
 import net.amathboi.allthetools.item.ModItemGroups;
 import net.amathboi.allthetools.item.ModItems;
+import net.amathboi.allthetools.util.ModTags;
 import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
@@ -17,5 +18,6 @@ public class AllTheTools implements ModInitializer {
 		ModItemGroups.registerItemGroups();
 		ModItems.registerModItems();
 		ModDataComponentTypes.registerDataComponentTypes();
+		ModTags.Blocks.registerModTags();
 	}
 }

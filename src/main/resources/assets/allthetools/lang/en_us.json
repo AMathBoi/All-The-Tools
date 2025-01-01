@@ -5,5 +5,11 @@
   "item.allthetools.quartz_axe": "Quartz Axe",
   "item.allthetools.quartz_hoe": "Quartz Hoe",
 
+  "item.allthetools.lapis_sword": "Lapis Sword",
+  "item.allthetools.lapis_pickaxe": "Lapis Pickaxe",
+  "item.allthetools.lapis_shovel": "Lapis Shovel",
+  "item.allthetools.lapis_axe": "Lapis Axe",
+  "item.allthetools.lapis_hoe": "Lapis Hoe",
+
   "itemgroup.allthetools.all_the_tools_items": "All the Tools"
 }

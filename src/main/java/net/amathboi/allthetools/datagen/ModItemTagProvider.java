@@ -16,14 +16,23 @@ public class ModItemTagProvider extends FabricTagProvider.ItemTagProvider {
     @Override
     protected void configure(RegistryWrapper.WrapperLookup wrapperLookup) {
         getOrCreateTagBuilder(ItemTags.SWORDS)
+                .add(ModItems.LAPIS_SWORD)
                 .add(ModItems.QUARTZ_SWORD);
+
         getOrCreateTagBuilder(ItemTags.PICKAXES)
+                .add(ModItems.LAPIS_PICKAXE)
                 .add(ModItems.QUARTZ_PICKAXE);
+
         getOrCreateTagBuilder(ItemTags.AXES)
+                .add(ModItems.LAPIS_AXE)
                 .add(ModItems.QUARTZ_AXE);
+
         getOrCreateTagBuilder(ItemTags.SHOVELS)
+                .add(ModItems.LAPIS_SHOVEL)
                 .add(ModItems.QUARTZ_SHOVEL);
+
         getOrCreateTagBuilder(ItemTags.HOES)
+                .add(ModItems.LAPIS_HOE)
                 .add(ModItems.QUARTZ_HOE);
     }
 }

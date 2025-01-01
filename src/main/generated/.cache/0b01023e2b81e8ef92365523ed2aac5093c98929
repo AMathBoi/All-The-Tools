@@ -1,11 +1,21 @@
-// 1.21	2024-12-31T15:16:52.337930277	All the Tools/Recipes
+// 1.21	2024-12-31T20:34:02.710038159	All the Tools/Recipes
+aa633b0dabed65c30f87491eb55c5e91b812ef91 data/allthetools/recipe/lapis_axe.json
+f3defeb8b004b4d42d5641e9180f77bb44fd890b data/allthetools/recipe/lapis_hoe.json
+0919d89e91686c992eb1db4376ca8b87a012bb18 data/allthetools/recipe/lapis_pickaxe.json
+c5d3b985770c1fd7a9894c96cf17efbf2c46b8d9 data/allthetools/recipe/lapis_sword.json
+50997f0f287d19073026aad888a4a23c8cdcaf73 data/allthetools/advancement/recipes/misc/quartz_pickaxe.json
 c3be277369ec19319a7ae1f7339f76211acfbc89 data/allthetools/advancement/recipes/misc/quartz_sword.json
 317a06def0633e5483bc1c127574cc29f537bedd data/allthetools/advancement/recipes/misc/quartz_shovel.json
+c4b581d361867712e26b7c896faf4c780a106090 data/allthetools/recipe/lapis_shovel.json
 b24bf5d50647bc9bf97f8afc5bba370c765e8f28 data/allthetools/advancement/recipes/misc/quartz_axe.json
 4a1e921f19361594108e0efda3438af628352af0 data/allthetools/advancement/recipes/misc/quartz_hoe.json
 5a192ae41726c2af5e7fc1ce9b47a468ea04770d data/allthetools/recipe/quartz_shovel.json
 98691df4ccaa8e6f412352eed911552ac8d42aad data/allthetools/recipe/quartz_hoe.json
 72ec1c120233219e2fc4a85f3e419bb4d57dc0b3 data/allthetools/recipe/quartz_axe.json
-50997f0f287d19073026aad888a4a23c8cdcaf73 data/allthetools/advancement/recipes/misc/quartz_pickaxe.json
 8f1e8a71e73ee9b2b4042d26a7d92453459ee033 data/allthetools/recipe/quartz_pickaxe.json
 36eb004c08ffb7fae443c487c307df98956020f1 data/allthetools/recipe/quartz_sword.json
+9ab7cd73e773dd8a2acada42cf9f4944b052ebc8 data/allthetools/advancement/recipes/misc/lapis_axe.json
+3ee90a79ef44828bbde5e0b7ac317661ed2f349b data/allthetools/advancement/recipes/misc/lapis_hoe.json
+560345d3d5aa9c82116561af99719265ae696111 data/allthetools/advancement/recipes/misc/lapis_sword.json
+a3a3c1637472cc01dfea44e2f4c54b5fbafb3020 data/allthetools/advancement/recipes/misc/lapis_pickaxe.json
+0385a7c13682488b8bb136b6153b824ab68acc01 data/allthetools/advancement/recipes/misc/lapis_shovel.json

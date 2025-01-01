@@ -12,7 +12,10 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterials implements ToolMaterial {
     QUARTZ(ModTags.Blocks.INCORRECT_FOR_QUARTZ_TOOL,
-            1200, 5.0F, 4.0F, 22, () -> Ingredient.ofItems(Items.QUARTZ));
+            200, 6.0F, 0.0F, 16, () -> Ingredient.ofItems(Items.QUARTZ)),
+
+    LAPIS(ModTags.Blocks.INCORRECT_FOR_LAPIS_TOOL,
+            125, 3.0F, 0.0F, 30, () -> Ingredient.ofItems(Items.LAPIS_LAZULI));
 
     private final TagKey<Block> inverseTag;
     private final int itemDurability;
@@ -21,8 +24,8 @@ public enum ModToolMaterials implements ToolMaterial {
     private final int enchantability;
     private final Supplier<Ingredient> repairIngredient;
 
-    ModToolMaterials(final TagKey<Block> inverseTag, final int itemDurability,final float miningSpeed,
-                     final float attackDamage, final int enchantability,final Supplier<Ingredient> repairIngredient) {
+    ModToolMaterials(final TagKey<Block> inverseTag, final int itemDurability, final float miningSpeed,
+                     final float attackDamage, final int enchantability, final Supplier<Ingredient> repairIngredient) {
         this.inverseTag = inverseTag;
         this.itemDurability = itemDurability;
         this.miningSpeed = miningSpeed;
@@ -61,3 +64,4 @@ public enum ModToolMaterials implements ToolMaterial {
         return this.repairIngredient.get();
     }
 }
+

@@ -20,6 +20,12 @@ public class ModItemGroups {
                         entries.add(ModItems.QUARTZ_SWORD);
                         entries.add(ModItems.QUARTZ_PICKAXE);
                         entries.add(ModItems.QUARTZ_HOE);
+
+                        entries.add(ModItems.LAPIS_AXE);
+                        entries.add(ModItems.LAPIS_SHOVEL);
+                        entries.add(ModItems.LAPIS_SWORD);
+                        entries.add(ModItems.LAPIS_PICKAXE);
+                        entries.add(ModItems.LAPIS_HOE);
                     }).build());
 
     public static void registerItemGroups() {

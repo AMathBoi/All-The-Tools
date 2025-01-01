@@ -1,6 +1,6 @@
-// 1.21	2024-12-31T15:16:52.337536336	All the Tools/Tags for minecraft:item
-a06d6409de86028932714b677db2c433ec84d0f5 data/minecraft/tags/item/axes.json
-b67272da06c3fb8bb861114fe001c484149ffe46 data/minecraft/tags/item/hoes.json
-60966212a2aae34113b268aa9aa7a1422beee9b5 data/minecraft/tags/item/shovels.json
-5df15b8960e54990ab556698510c202aa6f9ca15 data/minecraft/tags/item/pickaxes.json
-139bc29055455a5a4b6d24a0b307bc210d116833 data/minecraft/tags/item/swords.json
+// 1.21	2024-12-31T20:34:02.709652617	All the Tools/Tags for minecraft:item
+dac0d3ceb947d391d8917e14f95c1bdad19f03fd data/minecraft/tags/item/axes.json
+596f1c8daabc590007c2a2f93021d1edb4991e58 data/minecraft/tags/item/hoes.json
+6131095800c58359a625a2643869441c0b01f0eb data/minecraft/tags/item/shovels.json
+3facb2dfc4395a32873c3ea565ae6a92898cc132 data/minecraft/tags/item/pickaxes.json
+c0b793cf0d8a042db8260769c57c236d95a7456f data/minecraft/tags/item/swords.json
