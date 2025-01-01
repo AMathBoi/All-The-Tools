@@ -3,6 +3,6 @@
     "#minecraft:incorrect_for_stone_tool"
   ],
   "remove": [
-    "#tutorialmod:needs_lapis_tool"
+    "#tutorialmod:needs_copper_tool"
   ]
 }

@@ -1,6 +1,6 @@
 {
   "values": [
-    "#minecraft:incorrect_for_gold_tool"
+    "#minecraft:incorrect_for_iron_tool"
   ],
   "remove": [
     "#tutorialmod:needs_quartz_tool"

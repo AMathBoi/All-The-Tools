@@ -16,6 +16,9 @@ public class ModItems {
     public static final Item LAPIS_SWORD = registerItem("lapis_sword",
             new SwordItem(ModToolMaterials.LAPIS, new Item.Settings()
                     .attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.LAPIS, 5, -2.8f))));
+    public static final Item COPPER_SWORD = registerItem("copper_sword",
+            new SwordItem(ModToolMaterials.COPPER, new Item.Settings()
+                    .attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.COPPER, 3, -1.8f))));
 
     //Pickaxes
     public static final Item QUARTZ_PICKAXE = registerItem("quartz_pickaxe",
@@ -24,6 +27,9 @@ public class ModItems {
     public static final Item LAPIS_PICKAXE = registerItem("lapis_pickaxe",
             new PickaxeItem(ModToolMaterials.LAPIS, new Item.Settings()
                     .attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.LAPIS, 4, -3.0f))));
+    public static final Item COPPER_PICKAXE = registerItem("copper_pickaxe",
+            new PickaxeItem(ModToolMaterials.COPPER, new Item.Settings()
+                    .attributeModifiers(PickaxeItem.createAttributeModifiers(ModToolMaterials.COPPER, 2, -2.0f))));
 
     //Shovels
     public static final Item QUARTZ_SHOVEL = registerItem("quartz_shovel",
@@ -32,6 +38,9 @@ public class ModItems {
     public static final Item LAPIS_SHOVEL = registerItem("lapis_shovel",
             new ShovelItem(ModToolMaterials.LAPIS, new Item.Settings()
                     .attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.LAPIS, 4, -3.0f))));
+    public static final Item COPPER_SHOVEL = registerItem("copper_shovel",
+            new ShovelItem(ModToolMaterials.COPPER, new Item.Settings()
+                    .attributeModifiers(ShovelItem.createAttributeModifiers(ModToolMaterials.COPPER, 2, -2.0f))));
 
     //Axes
     public static final Item QUARTZ_AXE = registerItem("quartz_axe",
@@ -40,6 +49,9 @@ public class ModItems {
     public static final Item LAPIS_AXE = registerItem("lapis_axe",
             new AxeItem(ModToolMaterials.LAPIS, new Item.Settings()
                     .attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.LAPIS, 6, -3.4f))));
+    public static final Item COPPER_AXE = registerItem("copper_axe",
+            new AxeItem(ModToolMaterials.COPPER, new Item.Settings()
+                    .attributeModifiers(AxeItem.createAttributeModifiers(ModToolMaterials.COPPER, 4, -2.4f))));
 
     //Hoes
     public static final Item QUARTZ_HOE = registerItem("quartz_hoe",
@@ -48,6 +60,9 @@ public class ModItems {
     public static final Item LAPIS_HOE = registerItem("lapis_hoe",
             new HoeItem(ModToolMaterials.LAPIS, new Item.Settings()
                     .attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.LAPIS, 0, -3.0f))));
+    public static final Item COPPER_HOE = registerItem("copper_hoe",
+            new HoeItem(ModToolMaterials.COPPER, new Item.Settings()
+                    .attributeModifiers(HoeItem.createAttributeModifiers(ModToolMaterials.COPPER, 0, -2.0f))));
 
 
     private static Item registerItem(String name, Item item) {

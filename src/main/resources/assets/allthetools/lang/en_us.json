@@ -11,5 +11,11 @@
   "item.allthetools.lapis_axe": "Lapis Axe",
   "item.allthetools.lapis_hoe": "Lapis Hoe",
 
+  "item.allthetools.copper_sword": "Copper Sword",
+  "item.allthetools.copper_pickaxe": "Copper Pickaxe",
+  "item.allthetools.copper_shovel": "Copper Shovel",
+  "item.allthetools.copper_axe": "Copper Axe",
+  "item.allthetools.copper_hoe": "Copper Hoe",
+
   "itemgroup.allthetools.all_the_tools_items": "All the Tools"
 }

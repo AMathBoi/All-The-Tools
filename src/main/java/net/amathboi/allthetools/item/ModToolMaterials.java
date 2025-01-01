@@ -12,10 +12,13 @@ import java.util.function.Supplier;
 
 public enum ModToolMaterials implements ToolMaterial {
     QUARTZ(ModTags.Blocks.INCORRECT_FOR_QUARTZ_TOOL,
-            200, 6.0F, 0.0F, 16, () -> Ingredient.ofItems(Items.QUARTZ)),
+            200, 5.0F, 0.0F, 16, () -> Ingredient.ofItems(Items.QUARTZ)),
 
     LAPIS(ModTags.Blocks.INCORRECT_FOR_LAPIS_TOOL,
-            125, 3.0F, 0.0F, 30, () -> Ingredient.ofItems(Items.LAPIS_LAZULI));
+            125, 2.0F, 0.0F, 30, () -> Ingredient.ofItems(Items.LAPIS_LAZULI)),
+
+    COPPER(ModTags.Blocks.INCORRECT_FOR_COPPER_TOOL,
+            400, 3.0f, 0.0f, 12, () -> Ingredient.ofItems(Items.COPPER_INGOT));
 
     private final TagKey<Block> inverseTag;
     private final int itemDurability;

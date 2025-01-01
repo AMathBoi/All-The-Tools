@@ -1,11 +1,16 @@
-// 1.21	2024-12-31T20:34:02.71037179	All the Tools/Model Definitions
+// 1.21	2025-01-01T13:33:59.325033283	All the Tools/Model Definitions
 2fc9ec155416c206380bef78e315f55a59137218 assets/allthetools/models/item/lapis_shovel.json
+c84c346b02d1593788e6b70a27c1ff526b30747a assets/allthetools/models/item/copper_sword.json
+f638f8a731d0218eaa33a7489a85a067a50c02df assets/allthetools/models/item/lapis_pickaxe.json
+5feab3b06ad3b54f77776e7b54b746df49aab0fa assets/allthetools/models/item/copper_pickaxe.json
+3aacbcaa3f6a6b7d8ebce447f6d143cb3d05bbf0 assets/allthetools/models/item/copper_shovel.json
 e9852f3a48fc73d98244b3b0128440e5a0e43576 assets/allthetools/models/item/lapis_sword.json
 d0dca255745cb3b8f5e9641662dd8ed989173138 assets/allthetools/models/item/quartz_sword.json
 5bc33d789f85bccd345ee33ba1f38344d0a39424 assets/allthetools/models/item/lapis_hoe.json
-7707a6d6ae8a266803340e93efe0e7f866ed527c assets/allthetools/models/item/lapis_axe.json
 d507baf4d23da28c5c1813409b8a3badd1e45efa assets/allthetools/models/item/quartz_pickaxe.json
-f638f8a731d0218eaa33a7489a85a067a50c02df assets/allthetools/models/item/lapis_pickaxe.json
+7707a6d6ae8a266803340e93efe0e7f866ed527c assets/allthetools/models/item/lapis_axe.json
 02eb16aba658760aa2358327096e897ff3a8ced5 assets/allthetools/models/item/quartz_shovel.json
-866ac770359b45e8db54e511168e82434ee018d1 assets/allthetools/models/item/quartz_axe.json
+b445be71f55c915a52aedc371d4f0876705f6510 assets/allthetools/models/item/copper_hoe.json
+fbbf59a8566c1b5367b1bf33f8fbaee1cc759953 assets/allthetools/models/item/copper_axe.json
 af0fa141b88e32658fa69ada9a86a66608ea940e assets/allthetools/models/item/quartz_hoe.json
+866ac770359b45e8db54e511168e82434ee018d1 assets/allthetools/models/item/quartz_axe.json
