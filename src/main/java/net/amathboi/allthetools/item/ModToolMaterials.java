@@ -18,7 +18,16 @@ public enum ModToolMaterials implements ToolMaterial {
             125, 2.0F, 0.0F, 30, () -> Ingredient.ofItems(Items.LAPIS_LAZULI)),
 
     COPPER(ModTags.Blocks.INCORRECT_FOR_COPPER_TOOL,
-            400, 3.0f, 0.0f, 12, () -> Ingredient.ofItems(Items.COPPER_INGOT));
+            400, 3.0f, 0.0f, 12, () -> Ingredient.ofItems(Items.COPPER_INGOT)),
+
+    AMETHYST(ModTags.Blocks.INCORRECT_FOR_AMETHYST_TOOL,
+            600, 3.5f, 0.0f, 18, () -> Ingredient.ofItems(Items.AMETHYST_SHARD)),
+
+    FLINT(ModTags.Blocks.INCORRECT_FOR_FLINT_TOOL,
+            50, 1.5f, 0.0f, 10, () -> Ingredient.ofItems(Items.FLINT)),
+
+    BONE(ModTags.Blocks.INCORRECT_FOR_BONE_TOOL,
+            75, 1.0f, 0.0f, 10, () -> Ingredient.ofItems(Items.BONE));
 
     private final TagKey<Block> inverseTag;
     private final int itemDurability;

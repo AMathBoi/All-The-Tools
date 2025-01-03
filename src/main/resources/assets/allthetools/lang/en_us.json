@@ -17,5 +17,23 @@
   "item.allthetools.copper_axe": "Copper Axe",
   "item.allthetools.copper_hoe": "Copper Hoe",
 
+  "item.allthetools.amethyst_sword": "Amethyst Sword",
+  "item.allthetools.amethyst_pickaxe": "Amethyst Pickaxe",
+  "item.allthetools.amethyst_shovel": "Amethyst Shovel",
+  "item.allthetools.amethyst_axe": "Amethyst Axe",
+  "item.allthetools.amethyst_hoe": "Amethyst Hoe",
+
+  "item.allthetools.flint_sword": "Flint Sword",
+  "item.allthetools.flint_pickaxe": "Flint Pickaxe",
+  "item.allthetools.flint_shovel": "Flint Shovel",
+  "item.allthetools.flint_axe": "Flint Axe",
+  "item.allthetools.flint_hoe": "Flint Hoe",
+
+  "item.allthetools.bone_sword": "Bone Sword",
+  "item.allthetools.bone_pickaxe": "Bone Pickaxe",
+  "item.allthetools.bone_shovel": "Bone Shovel",
+  "item.allthetools.bone_axe": "Bone Axe",
+  "item.allthetools.bone_hoe": "Bone Hoe",
+
   "itemgroup.allthetools.all_the_tools_items": "All the Tools"
 }

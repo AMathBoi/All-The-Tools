@@ -32,6 +32,24 @@ public class ModItemGroups {
                         entries.add(ModItems.COPPER_AXE);
                         entries.add(ModItems.COPPER_SHOVEL);
                         entries.add(ModItems.COPPER_HOE);
+
+                        entries.add(ModItems.AMETHYST_SWORD);
+                        entries.add(ModItems.AMETHYST_PICKAXE);
+                        entries.add(ModItems.AMETHYST_AXE);
+                        entries.add(ModItems.AMETHYST_SHOVEL);
+                        entries.add(ModItems.AMETHYST_HOE);
+
+                        entries.add(ModItems.BONE_SWORD);
+                        entries.add(ModItems.BONE_PICKAXE);
+                        entries.add(ModItems.BONE_AXE);
+                        entries.add(ModItems.BONE_SHOVEL);
+                        entries.add(ModItems.BONE_HOE);
+
+                        entries.add(ModItems.FLINT_SWORD);
+                        entries.add(ModItems.FLINT_PICKAXE);
+                        entries.add(ModItems.FLINT_AXE);
+                        entries.add(ModItems.FLINT_SHOVEL);
+                        entries.add(ModItems.FLINT_HOE);
                     }).build());
 
     public static void registerItemGroups() {
