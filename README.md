@@ -1,7 +1,7 @@
 A mod that adds a variety of tools
 
 Toolsets:
-- Quartz: light and sharp
+- Quartz: Light and sharp
 - Lapis: Very enchantable and heavy
 - Copper: Cheap early game option
 
